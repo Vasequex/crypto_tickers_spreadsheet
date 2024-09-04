@@ -2265,7 +2265,7 @@
     },
     "FLUX": {
         "BINANCE": "FLUXUSDT",
-        "BYBIT": false,
+        "BYBIT": "FLUXUSDT",
         "OKX": false,
         "BINGX": "FLUX-USDT",
         "BITGET": false,
