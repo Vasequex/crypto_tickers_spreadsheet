@@ -2287,6 +2287,14 @@
         "BITGET": false,
         "KUCOIN": false
     },
+    "POL": {
+        "BINANCE": false,
+        "BYBIT": "POLUSDT",
+        "OKX": false,
+        "BINGX": false,
+        "BITGET": false,
+        "KUCOIN": false
+    },
     "BOME": {
         "BINANCE": "BOMEUSDT",
         "BYBIT": "BOMEUSDT",
